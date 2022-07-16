@@ -1,2 +1,2 @@
-# presence
+# Presence
 Open Source HR-Software
